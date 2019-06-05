@@ -1,2 +1,2 @@
-# CS442
-Repository for CS 442 assignments 
+# Socket Programming in Python
+Repository for Socket Programs 
